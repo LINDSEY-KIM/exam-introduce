@@ -1,2 +1,2 @@
 # exam-introduce
-# using propt 
+# using prompt 
